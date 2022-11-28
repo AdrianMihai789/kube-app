@@ -36,5 +36,5 @@ spec:
       volumes:
         - name: vprodbdata
           awsElasticBlockStore:
-            volumeID: vol-04f3936030ab39443
+            volumeID: vol-08dc485b474c7c803
             fsType: ext4
